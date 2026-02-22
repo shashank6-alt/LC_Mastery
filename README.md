@@ -6,10 +6,10 @@
 
 ## 📊 Live Stats
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/leetcode)
-![Languages](https://img.shields.io/github/languages/count/YOUR_GITHUB_USERNAME/leetcode)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/leetcode)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=shashank_792006&theme=dark)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/shashank6-alt/leetcode)
+![Languages](https://img.shields.io/github/languages/count/shashank6-alt/leetcode)
+![Last Commit](https://img.shields.io/github/last-commit/shashank6-alt/leetcode)
 
 ---
 
@@ -98,3 +98,53 @@ Each solution includes:
 ---
 
 ## 🗂 Repository Structure
+
+---
+
+## 🚧 WIP (Work In Progress)
+
+Problems under development are placed inside the `WIP/` folder with:
+- Clear TODO comments  
+- Known issues explained  
+- Fixes planned  
+
+This keeps the repository **honest and structured**.
+
+---
+
+## 🎯 Purpose of This Repository
+
+> *“Solving problems blindly is useless.  
+Patterns + consistency = mastery.”*
+
+This repo exists to:
+- Master **LeetCode patterns**
+- Prepare for **product-based companies**
+- Track long-term progress publicly
+
+---
+
+## 📌 Future Plans
+- Add multiple approaches per problem  
+- Add visual explanations  
+- Add daily challenge logs  
+- Add revision notes  
+
+---
+
+## 🤝 Connect
+- LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME  
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+
+---
+
+## ⭐ Final Note
+If you find this repository useful, **star it ⭐**  
+Consistency beats talent — every single time.
+## 📊 Progress Summary
+
+- 🟢 Easy: {{EASY_SOLVED}} / 150
+- 🟡 Medium: {{MEDIUM_SOLVED}} / 200
+- 🔴 Hard: {{HARD_SOLVED}} / 50
+
+**Overall Solved:** {{TOTAL_SOLVED}}
