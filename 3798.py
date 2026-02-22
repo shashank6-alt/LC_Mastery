@@ -1,0 +1,9 @@
+#leetcode 3798. Largest Even Number in String
+
+# class Solution:
+#     def largestEven(self, s: str) -> str:
+#         last_two = s.rfind('2')
+#         if last_two == -1:
+#             return ""
+         
+#         return s[:last_two + 1]
