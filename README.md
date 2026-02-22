@@ -6,7 +6,6 @@
 
 ## 📊 Live Stats
 
-![LeetCode Stats](https://leetcode.com/u/shashank_792006/)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/shashank6-alt/LC_Mastery)
 ![Languages](https://img.shields.io/github/languages/count/shashank6-alt/LC_Mastery)
 ![Last Commit](https://img.shields.io/github/last-commit/shashank6-alt/LC_Mastery)
@@ -95,9 +94,6 @@ Each solution includes:
 - Space Complexity  
 - Edge Case Handling  
 
----
-
-## 🗂 Repository Structure
 
 ---
 
@@ -133,8 +129,9 @@ This repo exists to:
 ---
 
 ## 🤝 Connect
-- LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME  
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- LeetCode: https://leetcode.com/shashank_792006 
+- GitHub: https://github.com/shashank6-alt
+
 
 ---
 
