@@ -6,10 +6,10 @@
 
 ## 📊 Live Stats
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=shashank_792006&theme=dark)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/shashank6-alt/leetcode)
-![Languages](https://img.shields.io/github/languages/count/shashank6-alt/leetcode)
-![Last Commit](https://img.shields.io/github/last-commit/shashank6-alt/leetcode)
+![LeetCode Stats](https://leetcode.com/u/shashank_792006/)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/shashank6-alt/LC_Mastery)
+![Languages](https://img.shields.io/github/languages/count/shashank6-alt/LC_Mastery)
+![Last Commit](https://img.shields.io/github/last-commit/shashank6-alt/LC_Mastery)
 
 ---
 
